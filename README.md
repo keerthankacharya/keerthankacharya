@@ -17,12 +17,6 @@ I’m a Full Stack Developer who loves crafting seamless user experiences and ro
 
 ---
 
-## 🧠 I’m Currently Working On
-
-- [vtufestinteract.com](https://vtufestinteract.com) – A platform for seamless interaction during VTU fests.
-
----
-
 ## 📫 Connect With Me
 
 
@@ -39,7 +33,6 @@ I’m a Full Stack Developer who loves crafting seamless user experiences and ro
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=keerthankacharya&theme=tokyonight&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=keerthankacharya&theme=tokyo-night&hide_border=true)
 
 ---
 
