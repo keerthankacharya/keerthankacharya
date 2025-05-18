@@ -1,4 +1,8 @@
-# Hi there, I'm Keerthan K Acharya!
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Keerthan+K+Acharya....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 *"Building the internet one div at a time. Full Stack Developer, semicolon enthusiast, and proud survivor of countless merge conflicts."*
 
